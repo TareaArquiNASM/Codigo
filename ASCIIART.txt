@@ -1,0 +1,43 @@
+'L      U   U  N     N  EEEEEE  SSSSSS'
+'L      U   U  N N   N  E       S    '	
+'L      U   U  N  N  N  EEE     SSSSSS'
+'L      U   U  N   N N  E            S'
+'LLLLL  UUUUU  N     N  EEEEEE  SSSSSS'
+
+'M     M       A       RRRRR   TTTTTTT  EEEEEE  SSSSSS'
+'M M M M      A A      R    R     T     E       S     '
+'M  M  M     A   A     RRRRR      T     EEE     SSSSSS'
+'M     M    AAAAAAA    R    R     T     E            S'
+'M     M   A	   A   R     R    T     EEEEEE  SSSSSS'    
+
+'M     M  IIIII  EEEEEE  RRRRR    CCCCCC  OOOOOO   L      EEEEEE  SSSSSS'
+'M M M M    I    E       R    R   C       O    O   L      E       S     '
+'M  M  M    I    EEE     RRRRR    C       O    O   L      EEE     SSSSSS'
+'M     M    I    E       R    R   C       O    O   L      E            S'
+'M     M  IIIII  EEEEEE  R     R  CCCCCC  OOOOOO   LLLLL  EEEEEE  SSSSSS'
+
+'JJJJJJJ  U   U  EEEEEE  V       V  EEEEEE  SSSSSS'
+'   J     U   U  E        V     V   E       S     '
+'   J     U   U  EEE       V   V    EEE     SSSSSS'
+'J  J     U   U  E          V V     E            S'
+'JJJJ     UUUUU  EEEEEE      V      EEEEEE  SSSSSS'
+
+'V       V  IIIII  EEEEEE  RRRRR    N     N  EEEEEE  SSSSSS'
+' V     V     I    E       R    R   N N   N  E       S     '
+'  V   V      I    EEE     RRRRR    N  N  N  EEE     SSSSSS'
+'   V V       I    E       R    R   N   N N  E            S'
+'    V      IIIII  EEEEEE  R     R  N     N  EEEEEE  SSSSSS'
+
+'SSSSSS      A      BBBBBB       A      DDDDD   OOOOOO'
+'S          A A     B     B     A A     D    D  O    O'
+'SSSSSS    A   A    BBBBBB     A   A    D    D  O    O'
+'     S   AAAAAAA   B     B   AAAAAAA   D    D  O    O'
+'SSSSSS  A       A  BBBBBB   A       A  DDDDD   OOOOOO'
+
+'DDDDD   OOOOOO  M     M   IIIII  N     N  GGGGG   OOOOO'
+'D    D  O    O  M M M M     I    N N   N  G       O   O'
+'D    D  O    O  M  M  M     I    N  N  N  GGGGG   O   O'
+'D    D  O    O  M     M     I    N   N N  G    G  O   O'
+'DDDDD   OOOOOO  M     M   IIIII  N     N  GGGGG   OOOOO'
+
+
